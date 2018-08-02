@@ -1,0 +1,5 @@
+name: XPTools
+version: 1.0
+author: emkaix93
+main: plugin.Main
+api-version: 1.12.2
